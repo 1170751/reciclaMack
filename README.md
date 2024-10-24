@@ -66,4 +66,4 @@ Aqui nós vamos fazer uma cópia do repositório remoto para o nosso local de de
 
 - [Documentação Next.js](https://nextjs.org/docs)
 - [Documentação Material-UI](https://mui.com/material-ui/react-button/)
-- [Wireframe Recicla-Mack no Figma](https://www.figma.com/file/jtFefdILIyKAXzNQtgYDzt/Wireframe-Recicla-Mack)
+- [Wireframe Recicla-Mack no Figma](https://www.figma.com/design/PnBZ6D5Rw3Xcfx5ELrF9H4/Wireframe-Recicla-Mack-(Copy)?t=1ZpifLUKeIKbztAv-1)
